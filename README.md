@@ -1,7 +1,7 @@
-# Engagement Log
-The log of student engagement/ activity throughout the course: questioning, answering, or commentary.
-The student should raise his/her hands before expressing the question, answer, or comment.
-The student only need to record their engagement once each day.
+# Catatan Keaktifan
+Catatan keaktifan mahasiswa selama kuliah berlangsung: bertanya, menjawab, atau berkomentar.
+Mahasiswa perlu mengacungkan tangan sebelum menyampaikan pertanyaan, jawaban, atau komentar.
+Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 
 | NO | NRP           | NAMA                            | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 |----|---------------|---------------------------------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|
