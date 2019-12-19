@@ -16,7 +16,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 9  | 5111740000049 | YEMIMA SUTANTO                  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 10 | 5111740000058 | CELIA CHINTARA YUWINE           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 11 | 5111740000067 | MUHAMMAD IQBAL IMANI ATFAN      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 12 | 5111740000071 | BRYAN KHUFA RAHMADA AULA        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 12 | 5111740000071 | BRYAN KHUFA RAHMADA AULA        |   |   |   |   |   |   |   |   |   |    | 1  |    |    |    |    |
 | 13 | 5111740000072 | AMMAR DWI ANWARI                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 14 | 5111740000076 | PAKSI ARIO PAMUNGKAS            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 15 | 5111740000081 | BIMA SATRIA RAMADHAN            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
@@ -31,7 +31,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 24 | 5111740000096 | ARINO JENYNOF                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 25 | 5111740000106 | MUHAMMAD FAWWAZ ZUHDAN NAUVALI  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 26 | 5111740000118 | FANDY KUNCORO ADIANTO           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 27 | 5111740000120 | RANGGA KUSUMA DINATA            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 27 | 5111740000120 | RANGGA KUSUMA DINATA            |   |   |   |   |   |   |   | 1 |   |    |    |    | 1  |    | 1  |
 | 28 | 5111740000124 | FURQAN ALIYUDDIEN               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 29 | 5111740000127 | ELKANA HANS WIDERSEN            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 30 | 5111740000128 | AHMAD YAHYA ABDUL AZIZ          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
